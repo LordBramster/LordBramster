@@ -4,5 +4,3 @@
 Check out my workshop! ![Steam Views](https://img.shields.io/steam/views/484782972?label=Current%20Workshop%20Views&style=flat-square)
 - 🌱 I’m currently learning more and more as I go :)
 - 👯 I’m looking to collaborate on Community Modding Projects for Games.
-- ⚡ Fun fact: I love aviation and history.
-
