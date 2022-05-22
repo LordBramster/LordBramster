@@ -1,14 +1,28 @@
 ## My Portfolio 
 
 [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img 
-src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>  
 
-## Steam Workshop
-Check out my [Battlezone Combat Commander Mods](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!
-<br/>![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square)
+### Steam Workshop
+![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square)
 ![Steam Downloads](https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=flat-square)
 
-## Github Metrics
-![metrics.lecoq.io](https://metrics.lecoq.io/LordBramster)
+PBR Textures, 3D Modeling, Level Design, FX, Particles. Come check out [all of my mods](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!
+
+
+<details><summary>Hidden Github Metrics</summary>
+
+  ![metrics.lecoq.io](https://metrics.lecoq.io/LordBramster)
+  
+</details>
+
+## Coding / Software / Data Science
+<img src="https://img.icons8.com/color/2x/python.png"/><img src="https://img.icons8.com/color/2x/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-powershell-a-task-based-command-line-shell-and-scripting-language-logo-color-tal-revivo.png"/><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"/><img src="https://img.icons8.com/color-glass/2x/json.png"/>
+
+## DevOps / Cloud / Frameworks
+<img src="https://img.icons8.com/color/2x/amazon-web-services.png"/><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/><img src="https://img.icons8.com/color/2x/django.png" alt="docker"/><img src="https://img.icons8.com/color/2x/gitlab.png"/><img src="https://img.icons8.com/color/2x/git.png"/>
+
+## Creative Outlet
+<img src="https://img.icons8.com/color/2x/blender-3d.png"/><img src="https://img.icons8.com/color/2x/adobe-illustrator.png"/><img src="https://img.icons8.com/nolan/2x/substance-painter.png"/><img src="https://img.icons8.com/fluency/2x/steam.png"/><img src="https://img.icons8.com/color/2x/gimp.png"/><img src="https://img.icons8.com/color/2x/wordpress.png"/>
+
+
