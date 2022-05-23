@@ -1,6 +1,8 @@
-## My Portfolio 
+# Welcome to my GitHub Portfolio!
 
-[![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+It's a little thin, and a bit under construction. But don't mind that!
+
+[![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&&theme=ayu-mirage&layout=compact)
 
 <details><summary>Hidden Github Metrics</summary>
 
@@ -25,5 +27,3 @@ PBR Textures, 3D Modeling, Level Design, FX, Particles. Come check out [all of m
 
 ## Creative Outlet
 <img src="https://img.icons8.com/color/2x/blender-3d.png"/><img src="https://img.icons8.com/color/2x/adobe-illustrator.png"/><img src="https://img.icons8.com/nolan/2x/substance-painter.png"/><img src="https://img.icons8.com/fluency/2x/steam.png"/><img src="https://img.icons8.com/color/2x/gimp.png"/><img src="https://img.icons8.com/color/2x/wordpress.png"/>
-
-
