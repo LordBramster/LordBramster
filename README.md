@@ -11,7 +11,7 @@ It's a little thin, and a bit under construction. But don't mind that!
 </details>
 
 ## Coding / Data Science
-<img src="https://img.icons8.com/color/2x/python.png"/><img src="https://img.icons8.com/color/2x/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-powershell-a-task-based-command-line-shell-and-scripting-language-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/offices/2x/json.png"/>
+<img src="https://img.icons8.com/color/2x/python.png"/><img src="https://img.icons8.com/color/2x/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-powershell-a-task-based-command-line-shell-and-scripting-language-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color-glass/2x/json.png"/> <img src="https://img.icons8.com/color/2x/html.png"/>
 
 
 ## Steam Workshop
@@ -20,9 +20,7 @@ It's a little thin, and a bit under construction. But don't mind that!
 
 PBR Textures, 3D Modeling, Level Design, FX, Particles. Come check out [all of my mods](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!
 
-
-
-## DevOps / Cloud / Frameworks
+## Frameworks / DevOps / Cloud
 <img src="https://img.icons8.com/color/2x/amazon-web-services.png"/> <img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/> <img src="https://img.icons8.com/color/2x/django.png" alt="docker"/> <img src="https://img.icons8.com/color/2x/gitlab.png"/> <img src="https://img.icons8.com/color/2x/git.png"/>
 
 ## Creative Outlet
