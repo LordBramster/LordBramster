@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio!
+# LordBramster's Portfolio!
 
 It's a little thin, and a bit under construction... but don't mind that!
 
@@ -15,7 +15,8 @@ It's a little thin, and a bit under construction... but don't mind that!
 ![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square&logo=steam)
 ![Steam Downloads](https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=flat-square&logo=steam)
 
-PBR Textures, 3D Modeling, Level Design, FX, Particles. Come check out [all of my mods](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!
+PBR Textures, 3D Modeling, Level Design, FX, Particles. 
+<br/>Come check out [all of my mods](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!
 
 
 ## Coding / Data Science
