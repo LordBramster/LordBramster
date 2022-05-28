@@ -5,17 +5,18 @@ It's a little thin, and a bit under construction. But don't mind that!
 [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=ayu-mirage&layout=compact&langs_count=10)
 
 
-## Steam Workshop
-![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square)
-![Steam Downloads](https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=flat-square)
-
-PBR Textures, 3D Modeling, Level Design, FX, Particles. Come check out [all of my mods](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!
-
 <details><summary>Hidden Github Metrics</summary>
 
   ![metrics.lecoq.io](https://metrics.lecoq.io/LordBramster)
  
 </details>
+
+## Steam Workshop
+![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square&logo=steam)
+![Steam Downloads](https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=flat-square&logo=steam)
+
+PBR Textures, 3D Modeling, Level Design, FX, Particles. Come check out [all of my mods](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!
+
 
 ## Coding / Data Science
 <img src="https://img.icons8.com/color/2x/python.png"/><img src="https://img.icons8.com/color/2x/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-powershell-a-task-based-command-line-shell-and-scripting-language-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color-glass/2x/json.png"/> <img src="https://img.icons8.com/color/2x/html.png"/>
