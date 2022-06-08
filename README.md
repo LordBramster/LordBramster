@@ -1,6 +1,6 @@
-# Welcome to my GitHub Porftfolio!
+# Welcome!
 
-It's a little thin, and a bit under construction... but don't mind that!
+**Come check out [my website!](https://lordbramster.github.io/index.html)**
 
 [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=ayu-mirage&layout=compact&langs_count=10)
 
