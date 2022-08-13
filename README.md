@@ -2,6 +2,8 @@
 [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=ayu-mirage&layout=compact&langs_count=10)
 <br>
+
+<br>
 <img src="assets/img/qr-code-home-003.png">
 <br>
 
@@ -11,13 +13,21 @@
 # <img src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
 -->
 
-# <img width="20%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
+# Game Modding 
+
+<br>
+<img width="20%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
+
+![Steam Downloads](https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=flat-square&logo=steam)
+![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square&logo=steam)  
+
+<br>
 
 | <img width="50%" src="https://content.2000ad.com/Alpha_NoBZGradient_Horizontal.png"> |
 | :-------------: |
-| ![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square&logo=steam) ![Steam Downloads](https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=flat-square&logo=steam) |
-| **Come check out [all of my mods here](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!** |
 | **PBR** Texturing - **3D** Modeling - Level Design - Weapon/Particle FX |
+| **Come check out all of my mods [here](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/)!** |
+| **Learn from my published guides [here](https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides)!** |
 
 
 <br/>
