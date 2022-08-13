@@ -1,5 +1,5 @@
 # Welcome!
-<img src="assets/img/qr-code-home-001.png"> <img src="assets/img/qr-code-home-002.png">
+<img src="assets/img/qr-code-home-003.png">
 
 [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=ayu-mirage&layout=compact&langs_count=10)
 
