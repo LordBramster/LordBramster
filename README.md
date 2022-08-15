@@ -4,7 +4,7 @@
 <br>
 
 <br>
-<img src="assets/img/qr-code-home-003.png">
+<img width="15%" src="assets/img/qr-code-home-004.png">
 <br>
 
 <!---
@@ -16,7 +16,7 @@
 # Game Modding 
 
 <br>
-<img width="30%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
+<img width="25%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
 
 ![Steam Downloads](https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=flat-square&logo=steam)
 ![Steam Views](https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=flat-square&logo=steam)  
