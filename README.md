@@ -37,9 +37,8 @@ ___
     </p>
     <h3>Fun to Learn, but not to use ...</h3>
     <p>    
-    <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white&style=flat-square"></a>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white&style=flat-square"></a>
     </p>
 
 <!-- Docker, Gimp, Neo4j, JSON/YAML, K8s, GitLab, AWS-->
