@@ -27,7 +27,7 @@ ___
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=flat-square"></a>
     </p>
-    <h3>Professional & Design</h3>
+    <h3>Hobby</h3>
     <p>
     <a href="#"><img alt="SP" src="https://custom-icon-badges.demolab.com/badge/Substance%20Painter-red.svg?logo=substancepainter&logoColor=white&style=flat-square"       </a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=flat-square"></a>
@@ -35,7 +35,7 @@ ___
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white&style=flat-square"></a>
     </p>
-    <h3>Fun to Learn, but not to use</h3>
+    <h3>Fun to Learn, but not to use ...</h3>
     <p>    
     <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=flat-square"></a>
