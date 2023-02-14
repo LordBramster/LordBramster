@@ -2,7 +2,8 @@
 <p align="center">
     <br>
     <!--<a href="#"><img alt="Steam" width="30%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>-->
-    <a href="#"><img alt="Battlezone CC" width="50%" src="https://content.2000ad.com/Alpha_NoBZGradient_Horizontal.png"></a>
+    <!--<a href="#"><img alt="Battlezone CC" width="50%" src="https://content.2000ad.com/Alpha_NoBZGradient_Horizontal.png"></a>-->
+    <a href="#"><img alt="LordBramster" width="50%" src="/assets/img/LordBramster_001.png"></a>
     <br>
     <br>
     <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=for-the-badge&logo=steam"></a>
