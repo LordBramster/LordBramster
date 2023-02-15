@@ -50,7 +50,7 @@ ___
     <br>
     <a href="#"><img alt="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-orange.svg?logo=gitlab&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=flat-square"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-gray.svg?logo=flask&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Docker" src="https://custom-icon-badges.demolab.com/badge/Docker-blue.svg?logo=docker&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-14354C.svg?logo=aws&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=flat-square"></a>
