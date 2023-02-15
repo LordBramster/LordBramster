@@ -15,6 +15,7 @@
 <a href="#"><img alt="Steam" width="16%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>
 <p>
 <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Browse%20Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a>
+<br>
 <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Learn%20From%20My%20Published%20Steam%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </p>
 
