@@ -6,8 +6,8 @@
     <a href="#"><img alt="LordBramster" width="50%" src="/assets/img/LordBramster_001.png"></a>
     <br>
     <br>
-    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=red&label=Downloads&style=for-the-badge&logo=steam"></a>
-    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?label=My%20Workshop%20Views&style=for-the-badge&logo=steam"></a>
+    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=144868&label=Downloads&style=for-the-badge&logo=steam"></a>
+    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=144868&label=My%20Workshop%20Views&style=for-the-badge&logo=steam"></a>
     <a href="#"><img alt="Youtube Views" src="https://img.shields.io/youtube/channel/views/UC7c3qQo0LHhTgzwBObMI7Og?color=red&label=Youtube%20views&logo=youtube&logoColor=red&style=for-the-badge"></a>
 </p>
 
