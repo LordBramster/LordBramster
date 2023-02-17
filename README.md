@@ -56,7 +56,7 @@
     <a href="#"><img alt="YAML" src="https://custom-icon-badges.demolab.com/badge/YAML-007396.svg?logo=yaml&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="XML" src="https://custom-icon-badges.demolab.com/badge/XML-007396.svg?logo=xml&logoColor=white&style=flat-square"></a>
     <br>
-    <h3>Web Dev</h3>
+    <h3>Web Dev / Frameworks</h3>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-gray.svg?logo=flask&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Elixir" src="https://custom-icon-badges.demolab.com/badge/Elixir-68217A.svg?logo=elixir&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=flat-square"></a>
