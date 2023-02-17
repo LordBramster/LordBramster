@@ -38,6 +38,12 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=flat-square"></a>
     <br>
+    <h3>CI/CD</h3>
+    <a href="#"><img alt="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-orange.svg?logo=gitlab&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="Docker" src="https://custom-icon-badges.demolab.com/badge/Docker-blue.svg?logo=docker&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-14354C.svg?logo=aws&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=flat-square"></a>
+    <br>
     <h3>Databases / Data</h3>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=flat-square"></a> 
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=flat-square"></a>
@@ -47,12 +53,6 @@
     <a href="#"><img alt="JSON" src="https://custom-icon-badges.demolab.com/badge/JSON-007396.svg?logo=json&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="YAML" src="https://custom-icon-badges.demolab.com/badge/YAML-007396.svg?logo=yaml&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="XML" src="https://custom-icon-badges.demolab.com/badge/XML-007396.svg?logo=xml&logoColor=white&style=flat-square"></a>
-    <br>
-    <h3>CI/CD</h3>
-    <a href="#"><img alt="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-orange.svg?logo=gitlab&logoColor=white&style=flat-square"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=flat-square"></a>
-    <a href="#"><img alt="Docker" src="https://custom-icon-badges.demolab.com/badge/Docker-blue.svg?logo=docker&logoColor=white&style=flat-square"></a>
-    <a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-14354C.svg?logo=aws&logoColor=white&style=flat-square"></a>
     <br>
     <h3>Web Dev</h3>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-gray.svg?logo=flask&logoColor=white&style=flat-square"></a>
