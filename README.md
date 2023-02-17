@@ -46,7 +46,7 @@
     <a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-14354C.svg?logo=aws&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=flat-square"></a>
     <br>
-    <h3>Databases / Data</h3>
+    <h3>Database Systems / Data Serialization</h3>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=flat-square"></a> 
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white&style=flat-square"></a>
