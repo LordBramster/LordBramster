@@ -30,10 +30,11 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="pydicom" src="https://custom-icon-badges.demolab.com/badge/pydicom-14354C.svg?logo=pydicom&logoColor=white&style=flat-square"></a>
-    <a href="#"><img alt="discordpy" src="https://custom-icon-badges.demolab.com/badge/discordpy-14354C.svg?logo=discordpy&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/PyTest-1572B6.svg?logo=pytest&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="beautifulSoup4" src="https://custom-icon-badges.demolab.com/badge/beautifulsoup-14354C.svg?logo=xml&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="django" src="https://img.shields.io/badge/django-14354C.svg?logo=django&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=flat-square"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/PyTest-1572B6.svg?logo=pytest&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="discordpy" src="https://custom-icon-badges.demolab.com/badge/discordpy-14354C.svg?logo=discordpy&logoColor=white&style=flat-square"></a>
     <br>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=flat-square"></a>
