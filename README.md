@@ -26,6 +26,11 @@
 <br>
 <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Learn%20From%20My%20Published%20Steam%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </p>
+
+<br>
+<h2>Statistics</h2>
+ [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=ayu-mirage&layout=compact&langs_count=10)
 -->
 
 <br>
@@ -38,10 +43,6 @@
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white&style=flat-square"></a>
     </p>
-<h2>Statistics</h2>
-
- [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=ayu-mirage&layout=compact&langs_count=10)
 <br>
 <h2>What I Use:</h2>
     <p>
