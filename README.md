@@ -1,24 +1,39 @@
- 
 <p align="center">
     <br>
-    <!--<a href="#"><img alt="Steam" width="30%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>-->
-    <!--<a href="#"><img alt="Battlezone CC" width="50%" src="https://content.2000ad.com/Alpha_NoBZGradient_Horizontal.png"></a>-->
-    <a href="#"><img alt="LordBramster" width="40%" src="/assets/img/LB.png"></a>
-    <br>
-    <br>
-    <h3>Find me on</h3>
-    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Steam%20Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a>
-    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Steam%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-    <br>
+    <a href="#"><img alt="LordBramster" width="50%" src="/assets/img/LB_3a.png"></a>
+</p>
+
+<br>
+
+<p align="center">
     <a href="#"><img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UC7c3qQo0LHhTgzwBObMI7Og?color=red&label=YouTube%20views&logo=youtube&logoColor=red&style=for-the-badge"></a>
-    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=white&label=My%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=14354C"></a>
-    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=white&label=Downloads&style=for-the-badge&logo=steam&logoColor=14354C"></a>
+    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=white&label=Steam%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=white"></a>
+    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=white&label=Mod%20Downloads&style=for-the-badge&logo=steam&logoColor=white"></a>
     <br>
+</p>
+
+<br>
+
+<h3 align="center">Find Me On</h3>
+<p align="center">
+    <a href="#"><img alt="Steam" width="15%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>
+</p>
+
+<p align="center">
+    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+    <br>
+</p>
+
+<br>
+
+<p align="center">
+ <text>"Never Tell People How to Do Things. Tell Them What to Do, and They Will Surprise You with Their Ingenuity." - Gen. George Patton</text>
 </p>
 
 <hr/>
 
-
+<!--<a href="#"><img alt="Steam" width="30%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>-->
+<!--<a href="#"><img alt="Battlezone CC" width="50%" src="https://content.2000ad.com/Alpha_NoBZGradient_Horizontal.png"></a>-->
 <!--
 <br>
 <a href="#"><img alt="Steam" width="16%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>
