@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <a href="#"><img alt="LordBramster" width="50%" src="/assets/img/LB_3a.png"></a>
+    <a href="#"><img alt="LordBramster" width="80%" src="/assets/img/LB_3a.png"></a>
 </p>
 
 <br>
