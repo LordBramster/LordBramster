@@ -6,11 +6,19 @@
     <a href="#"><img alt="LordBramster" width="50%" src="/assets/img/LordBramster_001.png"></a>
     <br>
     <br>
-    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=orange&label=Downloads&style=for-the-badge&logo=steam"></a>
-    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=orange&label=My%20Workshop%20Views&style=for-the-badge&logo=steam"></a>
-    <a href="#"><img alt="Youtube Views" src="https://img.shields.io/youtube/channel/views/UC7c3qQo0LHhTgzwBObMI7Og?color=red&label=Youtube%20views&logo=youtube&logoColor=red&style=for-the-badge"></a>
+    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Steam%20Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a>
+    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Steam%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+    <br>
+    <a href="#"><img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UC7c3qQo0LHhTgzwBObMI7Og?color=red&label=YouTube%20views&logo=youtube&logoColor=red&style=for-the-badge"></a>
+    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=14354C&label=My%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=14354C"></a>
+    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=14354C&label=Downloads&style=for-the-badge&logo=steam&logoColor=14354C"></a>
+    <br>
 </p>
 
+<hr/>
+
+
+<!--
 <br>
 <a href="#"><img alt="Steam" width="16%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>
 <p>
@@ -18,6 +26,7 @@
 <br>
 <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Learn%20From%20My%20Published%20Steam%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </p>
+-->
 
 <br>
 <h2>Hobby</h2>
