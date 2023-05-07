@@ -61,7 +61,7 @@
 
 <!-- QUOTE -->
 <h4 align="center">
-    "Never Tell People How to Do Things. Tell Them What to Do, and They Will Surprise You with Their Ingenuity." 
+    "Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity." 
     <br>
     - General George S. Patton
 </h4>    
