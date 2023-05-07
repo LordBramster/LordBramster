@@ -1,10 +1,12 @@
+<!-- MAIN SCREEN IMAGE-->
 <p align="center">
     <br>
-    <a href="#"><img alt="LordBramster" width="80%" src="/assets/img/LB_3a.png"></a>
+    <a href="#"><img alt="LordBramster" width="60%" src="/assets/img/LB_3a.png"></a>
 </p>
 
 <br>
 
+<!-- STATS -->
 <p align="center">
     <a href="#"><img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UC7c3qQo0LHhTgzwBObMI7Og?color=red&label=YouTube%20views&logo=youtube&logoColor=red&style=for-the-badge"></a>
     <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=white&label=Steam%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=white"></a>
@@ -14,7 +16,9 @@
 
 <br>
 
+<!-- STEAM -->
 <h3 align="center">Find Me On</h3>
+
 <p align="center">
     <a href="#"><img alt="Steam" width="15%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>
 </p>
@@ -26,11 +30,55 @@
 
 <br>
 
+<hr/>
+
+<br>
+
+<!-- TECH STACK -->
 <p align="center">
- <text>"Never Tell People How to Do Things. Tell Them What to Do, and They Will Surprise You with Their Ingenuity." - Gen. George Patton</text>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=13441&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=45490&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=20909&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=21278&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=13679&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=34886&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=22813&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=31085&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=5mbMwDZ796xj&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=mHi46t5vguiz&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=106501&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=38561&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=63208&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=65231&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png" title="Python"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=13443&format=png" title="Python"></code>
 </p>
 
+<br>
+
+<p align="center">
+    "Never Tell People How to Do Things. Tell Them What to Do, and They Will Surprise You with Their Ingenuity." - Gen. George Patton
+</p>
+
+<br>
+
 <hr/>
+
+<br>
+
+<!-- HOBBY -->
+<!--
+<p align="center">
+    <code><img width="2%" src="https://img.icons8.com/?size=512&id=omuSvqfyybfC&format=png"></code>
+    <code><img width="2%" src="https://img.icons8.com/?size=512&id=39221&format=png"></code>
+    <code><img width="2%" src="https://img.icons8.com/?size=512&id=65231&format=png"></code>
+    <code><img width="2%" src="https://img.icons8.com/?size=512&id=65231&format=png"></code>
+    <code><img width="2%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png"></code>
+    <code><img width="2%" src="https://img.icons8.com/?size=512&id=13443&format=png"></code>
+</p>
+-->
 
 <!--<a href="#"><img alt="Steam" width="30%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>-->
 <!--<a href="#"><img alt="Battlezone CC" width="50%" src="https://content.2000ad.com/Alpha_NoBZGradient_Horizontal.png"></a>-->
@@ -47,7 +95,6 @@
 <h2>Statistics</h2>
  [![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=ayu-mirage&layout=compact&langs_count=10)
--->
 
 <br>
 <h2>Hobby</h2>
@@ -94,5 +141,4 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="JustinMind" src="https://custom-icon-badges.demolab.com/badge/Justinmind-995ab3.svg?logo=justinmind&logoColor=white&style=flat-square"></a>
     </p>
-<!-- JSON/YAML-->
-___
+-->
