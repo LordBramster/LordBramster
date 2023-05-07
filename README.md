@@ -20,19 +20,19 @@
 <!-- TECH STACK -->
 <p align="center">
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=13441&format=png" title="Python"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" title="django"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" title="C++"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=45490&format=png" title="C#"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=20909&format=png" title="HTML"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=21278&format=png" title="CSS"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=13679&format=png" title="JAVA"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=34886&format=png" title="GitLab"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=22813&format=png" title="Docker"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=31085&format=png" title="Heroku"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png" title="django"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=5mbMwDZ796xj&format=png" title="Flask"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=20909&format=png" title="HTML"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=21278&format=png" title="CSS"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=mHi46t5vguiz&format=png" title="AWS"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=106501&format=png" title="S3"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=38561&format=png" title="PostgreSQL"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=31085&format=png" title="Heroku"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=63208&format=png" title="Ubuntu"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=65231&format=png" title="Blender"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png" title="Arduino"></code>
