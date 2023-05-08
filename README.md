@@ -34,9 +34,6 @@
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=38561&format=png" title="PostgreSQL"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=31085&format=png" title="Heroku"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=63208&format=png" title="Ubuntu"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=65231&format=png" title="Blender"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png" title="Arduino"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=13443&format=png" title="RaspberryPi"></code>
 </p>
 
 <br>
@@ -55,6 +52,19 @@
 <p align="center">
     <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
     <br>
+</p>
+
+<br>
+
+<!-- HOBBY -->
+<h3 align="center">My hobby:</h3>
+
+<p align="center">
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=13443&format=png" title="SubstancePainter"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=65231&format=png" title="Blender"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=omuSvqfyybfC&format=png" title="GIMP"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png" title="Arduino"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=13443&format=png" title="RaspberryPi"></code>
 </p>
 
 <br>
