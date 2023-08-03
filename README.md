@@ -14,6 +14,7 @@
     <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=14354C&label=Steam%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=14354C&label=Mod%20Downloads&style=for-the-badge&logo=steam&logoColor=white"></a>
     <br>
+    <a href=""><img width="15%" src="./assets/img/qr-code-home-004.png"></a>
 </p>
 
 <hr/>
