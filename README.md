@@ -3,8 +3,8 @@
     <br>
     <!--<a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_Logo_GitHub3.png"></a>-->
     <a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_2.png"></a>
-    <br>
-    <a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_2.png"></a>
+    <br><br>
+    <a href="#"><img alt="LordBramster" width="20%" src="./assets/img/LordBramster_GitHub_QR.png"></a>
 </p>
 
 <br>
