@@ -1,7 +1,7 @@
 <!-- MAIN SCREEN IMAGE-->
 <p align="center">
     <br>
-    <a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_Logo_GitHub.png"></a>
+    <a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_Logo_GitHub3.png"></a>
 </p>
 
 <br>
@@ -14,7 +14,7 @@
     <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=205479&label=Steam%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=205479&label=Mod%20Downloads&style=for-the-badge&logo=steam&logoColor=white"></a>
     <br>
-    <a href=""><img width="15%" src="./assets/img/LordBramster_GitHub_QR.png"></a>
+    <!--<a href=""><img width="15%" src="./assets/img/LordBramster_GitHub_QR.png"></a>-->
 </p>
 
 <hr/>
@@ -94,7 +94,8 @@
     <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=LordBramster&label=GitHub%20Views&color=430098&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
-<br>
+[![LordBramster's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordBramster&hide=prs&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBramster&theme=darcula&layout=compact&langs_count=10)
 
 <!-- REVERT BELOW -->
 
