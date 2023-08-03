@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-205479?style=for-the-badge&logoColor=white&logo=steam"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-205479?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-205479?style=for-the-badge&logoColor=white&logo=download"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-205479?style=for-the-badge&logoColor=white&logo=link-external"/></a>
     <br>
 </p>
 
