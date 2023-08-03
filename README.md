@@ -1,7 +1,8 @@
 <!-- MAIN SCREEN IMAGE-->
 <p align="center">
     <br>
-    <a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_Logo_GitHub3.png"></a>
+    <!--<a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_Logo_GitHub3.png"></a>-->
+    <a href="#"><img alt="LordBramster" width="80%" src="./assets/img/LB_Logo_GitHub5b.png"></a>
 </p>
 
 <br>
