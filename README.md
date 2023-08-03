@@ -59,14 +59,14 @@
 <br>
 
 <!-- HOBBY -->
-<h3 align="center">My hobby:</h3>
+<h3 align="center">Hobby:</h3>
 
 <p align="center">
-    <code><img width="4%" src="assets/img/SP.png" title="SubstancePainter"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=65231&format=png" title="Blender"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=omuSvqfyybfC&format=png" title="GIMP"></code>
+    <code><img width="4%" src="assets/img/SP.png" title="SubstancePainter"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png" title="Arduino"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=13443&format=png" title="RaspberryPi"></code>
+    <!--<code><img width="4%" src="https://img.icons8.com/?size=512&id=omuSvqfyybfC&format=png" title="GIMP"></code>-->
 </p>
 
 <br>
