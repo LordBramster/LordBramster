@@ -16,6 +16,24 @@
     <br>
 </p>
 
+<hr/>
+
+<br>
+
+<!-- STEAM -->
+<!--<h3 align="center">Find Me On</h3>-->
+
+<p align="center">
+    <a href="#"><img alt="Steam" width="25%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+    <br>
+</p>
+
 <br>
 <br>
 
@@ -43,20 +61,6 @@
 <hr/>
 
 <br> 
-
-<!-- STEAM -->
-<h3 align="center">Find Me On</h3>
-
-<p align="center">
-    <a href="#"><img alt="Steam" width="25%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"></a>
-</p>
-
-<p align="center">
-    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-    <br>
-</p>
-
-<br>
 
 <!-- HOBBY -->
 <h3 align="center">Hobby:</h3>
