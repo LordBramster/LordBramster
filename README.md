@@ -11,8 +11,8 @@
     <a href="#https://www.youtube.com/@TheBrambleverse/">
         <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UC7c3qQo0LHhTgzwBObMI7Og?color=red&label=YouTube%20views&logo=youtube&logoColor=red&style=for-the-badge">
     </a>
-    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=14354C&label=Steam%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=white"></a>
-    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=14354C&label=Mod%20Downloads&style=for-the-badge&logo=steam&logoColor=white"></a>
+    <a href="#"><img alt="Steam Views" src="https://img.shields.io/steam/views/484782972?color=205479&label=Steam%20Workshop%20Views&style=for-the-badge&logo=steam&logoColor=white"></a>
+    <a href="#"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=205479&label=Mod%20Downloads&style=for-the-badge&logo=steam&logoColor=white"></a>
     <br>
     <a href=""><img width="15%" src="./assets/img/LordBramster_GitHub_QR.png"></a>
 </p>
@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-14354C?style=for-the-badge&logoColor=white&logo=steam"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-14354C?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/"><img alt="Workshop Mods" title="Workshop Mods" src="https://custom-icon-badges.demolab.com/badge/-Workshop%20Mods-205479?style=for-the-badge&logoColor=white&logo=steam"/></a> <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/?section=guides"><img alt="Learn from my published guides." title="Published Guides" src="https://custom-icon-badges.demolab.com/badge/-Published%20Guides-205479?style=for-the-badge&logoColor=white&logo=link-external"/></a>
     <br>
 </p>
 
@@ -69,8 +69,9 @@
 <p align="center">
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=65231&format=png" title="Blender"></code>
     <code><img width="4%" src="assets/img/SP.png" title="SubstancePainter"></code>
-    <code><img width="4%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png" title="Arduino"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=30998&format=png" title="Discord"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=13443&format=png" title="RaspberryPi"></code>
+    <code><img width="4%" src="https://img.icons8.com/?size=512&id=Of4lZV2lwBQI&format=png" title="Arduino"></code>
     <!--<code><img width="4%" src="https://img.icons8.com/?size=512&id=omuSvqfyybfC&format=png" title="GIMP"></code>-->
 </p>
 
