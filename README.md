@@ -32,10 +32,11 @@
 "Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity."
 - General George S. Patton
 ```
-<hr/>
+<!--<hr/>-->
 <br>
 
 <!-- TECH STACK -->
+<br>
 <p align="center">
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=13441&format=png" title="Python"></code>
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=34886&format=png" title="GitLab"></code>
@@ -54,30 +55,11 @@
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=13679&format=png" title="JAVA"></code>
 </p>
 <br>
+<br>
 
 <!-- STEAM -->
 <!--<h3 align="center">Find Me On</h3>-->
 # Hobby and Projects
-<br>
-<p align="left">
-    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
-        <img alt="Steam" width="25%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
-    </a>
-</p>
-<a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
-    <img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=205479&label=Downloads&style=for-the-badge&logo=steam&logoColor=white&labelColor=222f40">
-</a>
-<a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
-    <img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/484782972?color=205479&label=Subscribers&style=for-the-badge&logo=steam&logoColor=white&labelColor=222f40">
-</a>
-<a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
-    <img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/484782972?color=205479&label=Favorites&style=for-the-badge&logo=steam&logoColor=white&labelColor=222f40">
-</a>
-<br>
-<br>
-
-Find my Steam Workshop items and give some of my content a download! Also take a look at some of my released Steam Guides.
-
 <br>
 <br>
 <p align="center">
@@ -90,8 +72,39 @@ Find my Steam Workshop items and give some of my content a download! Also take a
     <br>
 </p>
 <br>
+<h3 align="center">
+    Find my mods on the Steam Workshop, and give them a download.
+    <br>
+    Learn something new by reading some of my released Steam Guides.
+</h3>
 <br>
+<br>
+<p align="left">
+    <a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
+        <img alt="Steam" width="25%" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
+    </a>
+</p>
+
+> The Steam Workshop is a central hub of player-created content and tools to publish, organize, and download that content into your games.
+
+<a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
+    <img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/484782972?color=205479&label=Downloads&style=for-the-badge&logo=steam&logoColor=white&labelColor=222f40">
+</a>
+<a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
+    <img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/484782972?color=205479&label=Subscribers&style=for-the-badge&logo=steam&logoColor=white&labelColor=222f40">
+</a>
+<a href="https://steamcommunity.com/id/SirBrambley/myworkshopfiles/">
+    <img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/484782972?color=205479&label=Favorites&style=for-the-badge&logo=steam&logoColor=white&labelColor=222f40">
+</a>
+<br>
+
 <!-- HOBBY -->
+<br>
+<br>
+<br>
+<h3 align="center">
+    Here are some of my side-tech hobbies:
+</h3>
 <p align="center">
     <code><img width="4%" src="https://img.icons8.com/?size=512&id=65231&format=png" title="Blender"></code>
     <code><img width="4%" src="assets/img/SP.png" title="SubstancePainter"></code>
